@@ -4,6 +4,10 @@ This is my portfolio for my projects Fall 2017 KSU
 
 # Word up HOMIE
 
+## I'm sexy and I know it
+
+### And I'm about to show it, show it
+
 * watch me go
 
 I'm awesome | And I know it
