@@ -18,6 +18,6 @@ Ice Ice | Baby
 
 ```javascript
 function test() {
-console.log("look ma’, no spaces");
+console.log("look ma NO HANDS’, no spaces");
 }
 ```
