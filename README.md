@@ -16,3 +16,8 @@ Party on  | People
 Ice Ice | Baby
 
 
+```javascript
+function test() {
+console.log("look ma’, no spaces");
+}
+```
