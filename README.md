@@ -1,10 +1,6 @@
-# Portfolio
+## Portfolio Fall 2017 KSU
 
-This is my portfolio for my projects Fall 2017 KSU
-
-# In this portfolio you will be able to see what sets me apart from my counterparts
-
-### Please see the provided Table below for a list of my GitHub portfolio projects. Please contact me for a futher display of projects with using platforms such as DreamWeaver, Java SE (JDK 8u141) and NetBeans. This Portfolio will remain consistant of HTML, CSS and SQL programming languages to follow my KState cirriculumn for the Fall 2017 semester. I'm constantly learning new programming languages on my own such as HTML, CSS, SQL, DreamWeaver and Java. As I create outside projects, I will place them in the perspective corresponding language folder's. 
+### Please see the provided Table below for a list of my GitHub portfolio projects. This Portfolio will remain consistant of HTML, CSS and SQL programming languages to follow my KState cirriculumn for the Fall 2017 semester. I'm constantly learning new programming languages on my own such as HTML, CSS, SQL, DreamWeaver and Java SE (JDK) w/NetBeans. As I create outside projects, I will place them in the perspective corresponding language folder's. 
 
 Thank you,
 
@@ -19,4 +15,4 @@ JamesWegner.com | Peronal Website 
 
 
 
-:rocket: emoji
+:rocket:
