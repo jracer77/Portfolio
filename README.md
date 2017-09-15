@@ -4,11 +4,12 @@ This is my portfolio for my projects Fall 2017 KSU
 
 # In this portfolio you will be able to see what sets me apart from my counterparts
 
-## If you have any questions please feel free to view my website jameswegner.com and contact me via the "Contact" tab
+### Please see the provided Table below for a list of my GitHub portfolio projects. Please contact me for a futher display of projects with using platforms such as DreamWeaver, Java SE (JDK 8u141) and NetBeans. This Portfolio will remain consistant of HTML, CSS and SQL programming languages to follow my KState cirriculumn for the Fall 2017 semester. I'm constantly learning new programming languages on my own such as HTML, CSS, SQL, DreamWeaver and Java. As I create outside projects, I will place them in the perspective corresponding language folder's. 
 
-### Please use the provided Table below to help you navigate my GitHub portfolio to see the list of my projects or please go to jameswegner.com for more projects 
+Thank you,
 
-* watch me go
+James Wegner
+
 
 Project Name | Brief Description
 ------------ | -------------
@@ -16,12 +17,6 @@ Kayak County | Kayak Tours, Self-Guided and Rental Website
 JamesWegner.com | Peronal Website 
 
 
-
-```javascript
-function test() {
-console.log("Code Capable Sample Test’, no spaces");
-}
-```
 
 
 :rocket: emoji
